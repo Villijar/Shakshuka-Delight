@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# Shakshuka Delight
 
-## Setup
+## Description
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This Minecraft mod is an addon to the Farmer's delight mod ([Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)) which adds the Shakshuka food item
 
-## License
+## Links
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+* [Youtube](https://youtube.com/@shakshuk)
+* [Curse Forge](https://curseforge.com/members/Shakshuk/projects)
+* [Modrinth](https://modrinth.com/user/Villijar)
