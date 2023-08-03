@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "shakdel",
+	"version": "1.0.0",
+	"name": "Shakshuka Delight",
+	"description": "This is a mod where you can make Shakshuka :) :) By: Shakshuk",
+	"authors": [
+		"Shakshuk"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/shakshuka-delight",
+		"sources": "https://github.com/Villijar/Shakshuka-Delight"
+	},
+	"license": "CC Attribution 1.0 Generic",
+	"icon": "assets/shakdel/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.shakdel.ShakshukaDelight"
+		],
+		"client":[
+			"com.shakdel.ShakshukaDelightClient"
+		]
+	},
+	"mixins": [
+		"shakdel.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"farmersdelight": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
